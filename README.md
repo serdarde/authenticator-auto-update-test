@@ -1,0 +1,1 @@
+# authenticator-auto-update-test
